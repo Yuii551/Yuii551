@@ -1,9 +1,9 @@
-# ✨ 宇涵 — 游戏程序员 | 计算机科学专业学生
+# ✨ Yi Han — 游戏程序员 | 计算机科学专业学生
 
-🇬🇧 English version → [README.md](README.md)
-🇯🇵 日本語版はこちら → [README_JP.md](README_JP.md)  
+🇬🇧 English version → [README.md](README.md)  
+🇯🇵 日本語版はこちら → [README_JP.md](README_JP.md)
 
-大家好，我是 **宇涵**。  
+大家好，我是 **Yi Han**。  
 我是一名专注于 **游戏开发** 的计算机科学专业学生，主要方向为 **游戏编程** 和 **系统设计**。  
 我主要使用 **Unreal Engine 5** 开发游戏玩法系统、工具和原型，采用 **C++** 与 **Blueprint** 混合的开发流程。  
 同时，我也开发过一些公司内部的 UE5 插件和可复用系统。
@@ -47,12 +47,17 @@
 
 ---
 
-## 💻 编程技能
-- **C++**（游戏玩法、组件、数据系统）  
-- **Blueprint**（逻辑、原型、设计师工具）  
-- 游戏系统架构与面向对象设计  
-- 数据资产、Gameplay Tags、UE5 设计模式  
-- 版本管理（Git、GitHub）
+## 🛠️ 技能 & 工具
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white)
+![Blueprint](https://img.shields.io/badge/Blueprint-3399FF?style=flat-square&logo=blueprint&logoColor=white)
+![Perforce](https://img.shields.io/badge/Perforce-005C99?style=flat-square&logo=perforce&logoColor=white)
+
+## 🗣 语言
+![英语](https://img.shields.io/badge/English-Native-blue?style=flat-square)
+![中文](https://img.shields.io/badge/Chinese-Native-red?style=flat-square)
+![马来语](https://img.shields.io/badge/Malay-Conversational-yellow?style=flat-square)
+![日语](https://img.shields.io/badge/Japanese-N2-1E50A2?style=flat-square)
 
 ---
 
