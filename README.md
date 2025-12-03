@@ -1,5 +1,7 @@
 # ✨ Yi Han — Game Programmer | Computer Science Student
 
+🇯🇵 日本語版はこちら → [README_JP.md](README_JP.md)
+
 Hi! I’m **Yi Han**, a Computer Science student specializing in **Game Development**, focusing on **game programming** and **systems design**.  
 I build gameplay systems, tools, and prototypes primarily in **Unreal Engine 5**, using a clean hybrid workflow of **C++** and **Blueprints**.  
 I’ve also developed several internal UE5 plugins and reusable systems for production use.
@@ -47,11 +49,10 @@ I’ve also developed several internal UE5 plugins and reusable systems for prod
 - **C++** (gameplay, components, data systems)  
 - **Blueprints** (logic, prototyping, designer tools)  
 - Game system architecture & OOP principles  
-- Data assets, gameplay tags, UE5 design patterns  
-- Version control (Perforce, GitHub)
+- Data Assets, Gameplay Tags, UE5 design patterns  
+- Version control (Git, GitHub)
 
 ---
 
 ## 📫 Contact
 Feel free to reach out or follow my work here on GitHub!
-
