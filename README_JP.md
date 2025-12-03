@@ -54,10 +54,11 @@
 ![Perforce](https://img.shields.io/badge/Perforce-005C99?style=flat-square&logo=perforce&logoColor=white)
 
 ## 🗣 言語
-![英語](https://img.shields.io/badge/English-Native-blue?style=flat-square)
-![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-Native-red?style=flat-square)
-![マレー語](https://img.shields.io/badge/Malay-Conversational-yellow?style=flat-square)
+![英語](https://img.shields.io/badge/%E8%8B%B1%E8%AA%9E-%E9%AB%98%E6%89%8D-blue?style=flat-square)
+![中国語](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E9%AB%98%E6%89%8D-red?style=flat-square)
+![マレー語](https://img.shields.io/badge/%E3%83%9E%E3%83%AC%E3%83%BC%E8%AA%9E-%E4%B8%AD%E7%AD%89-yellow?style=flat-square)
 ![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-N2-1E50A2?style=flat-square)
+
 
 ---
 
