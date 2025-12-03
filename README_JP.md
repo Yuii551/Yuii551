@@ -55,9 +55,9 @@
 
 ## 🗣 言語
 ![英語](https://img.shields.io/badge/English-Native-blue?style=flat-square)
-![中国語](https://img.shields.io/badge/Chinese-Native-red?style=flat-square)
+![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-Native-red?style=flat-square)
 ![マレー語](https://img.shields.io/badge/Malay-Conversational-yellow?style=flat-square)
-![日本語](https://img.shields.io/badge/Japanese-N2-1E50A2?style=flat-square)
+![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-N2-1E50A2?style=flat-square)
 
 ---
 
