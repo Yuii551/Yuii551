@@ -1,6 +1,7 @@
 # ✨ Yi Han — Game Programmer | Computer Science Student
 
-🇯🇵 日本語版はこちら → [README_JP.md](README_JP.md)
+🇯🇵 日本語版はこちら → [README_JP.md](README_JP.md)  
+🇨🇳 中文版はこちら → [README_CN.md](README_CN.md)
 
 Hi! I’m **Yi Han**, a Computer Science student specializing in **Game Development**, focusing on **game programming** and **systems design**.  
 I build gameplay systems, tools, and prototypes primarily in **Unreal Engine 5**, using a clean hybrid workflow of **C++** and **Blueprints**.  
