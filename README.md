@@ -1,4 +1,4 @@
-# ✨ Yi Han — Game Programmer | Computer Science Student
+# Yi Han — Game Programmer | Computer Science Student
 
 🇯🇵 日本語版はこちら → [README_JP.md](README_JP.md)  
 🇨🇳 中文版はこちら → [README_CN.md](README_CN.md)
@@ -9,16 +9,16 @@ I’ve also developed several internal UE5 plugins and reusable systems for prod
 
 ---
 
-## 🎮 What I Do
-- 🕹️ Gameplay programming (UE5)  
-- 🧩 Systems architecture for gameplay  
-- 🔧 Plugin & tools development (UE5)  
-- 🎨 Rapid prototyping for mechanics  
-- ⚙️ C++ + Blueprint hybrid workflows  
+## What I Do
+- Gameplay programming (UE5)  
+- Systems architecture for gameplay  
+- Plugin & tools development (UE5)  
+- Rapid prototyping for mechanics  
+- C++ + Blueprint hybrid workflows  
 
 ---
 
-## 🛠️ UE5 Experience
+## UE5 Experience
 
 ### **Gameplay Systems I’ve Built**  
 *(Company/internal work — described at a high level)*
@@ -46,7 +46,7 @@ I’ve also developed several internal UE5 plugins and reusable systems for prod
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white)
 ![Blueprint](https://img.shields.io/badge/Blueprint-3399FF?style=flat-square&logo=blueprint&logoColor=white)
@@ -54,7 +54,7 @@ I’ve also developed several internal UE5 plugins and reusable systems for prod
 
 ---
 
-## 🗣 Languages
+## Languages
 ![English](https://img.shields.io/badge/English-Native-blue?style=flat-square)
 ![Chinese](https://img.shields.io/badge/Chinese-Native-red?style=flat-square)
 ![Malay](https://img.shields.io/badge/Malay-Conversational-yellow?style=flat-square)
@@ -62,5 +62,5 @@ I’ve also developed several internal UE5 plugins and reusable systems for prod
 
 ---
 
-## 📫 Contact
+## Contact
 Feel free to reach out or follow my work here on GitHub!
