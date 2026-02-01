@@ -1,4 +1,4 @@
-# ✨ Yi Han — ゲームプログラマー | コンピュータサイエンス専攻
+# Yi Han — ゲームプログラマー | コンピュータサイエンス専攻
 
 🇬🇧 English version → [README.md](README.md)  
 🇨🇳 中文版はこちら → [README_CN.md](README_CN.md)
@@ -10,12 +10,12 @@
 
 ---
 
-## 🎮 担当している分野
-- 🕹️ Unreal Engine 5 によるゲームプレイプログラミング  
-- 🧩 ゲームプレイ用システムアーキテクチャ設計  
-- 🔧 UE5 用プラグイン・ツール開発  
-- 🎨 ゲームメカニクスの高速プロトタイピング  
-- ⚙️ C++ と Blueprint を活用したハイブリッド開発  
+## 担当している分野
+- Unreal Engine 5 によるゲームプレイプログラミング  
+- ゲームプレイ用システムアーキテクチャ設計  
+- UE5 用プラグイン・ツール開発  
+- ゲームメカニクスの高速プロトタイピング  
+- C++ と Blueprint を活用したハイブリッド開発  
 
 ---
 
@@ -47,13 +47,13 @@
 
 ---
 
-## 🛠️ スキル & ツール
+## スキル & ツール
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white)
 ![Blueprint](https://img.shields.io/badge/Blueprint-3399FF?style=flat-square&logo=blueprint&logoColor=white)
 ![Perforce](https://img.shields.io/badge/Perforce-005C99?style=flat-square&logo=perforce&logoColor=white)
 
-## 🗣 言語
+## 言語
 ![英語](https://img.shields.io/badge/%E8%8B%B1%E8%AA%9E-%E9%AB%98%E6%89%8D-blue?style=flat-square)
 ![中国語](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E9%AB%98%E6%89%8D-red?style=flat-square)
 ![マレー語](https://img.shields.io/badge/%E3%83%9E%E3%83%AC%E3%83%BC%E8%AA%9E-%E4%B8%AD%E7%AD%89-yellow?style=flat-square)
@@ -62,5 +62,5 @@
 
 ---
 
-## 📫 連絡先
+## 連絡先
 GitHub 上でのフォローやメッセージ、お気軽にどうぞ！
