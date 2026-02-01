@@ -1,4 +1,4 @@
-# ✨ 宇涵 — 游戏程序员 | 计算机科学专业学生
+# 宇涵 — 游戏程序员 | 计算机科学专业学生
 
 🇬🇧 English version → [README.md](README.md)  
 🇯🇵 日本語版はこちら → [README_JP.md](README_JP.md)
