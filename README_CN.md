@@ -10,12 +10,12 @@
 
 ---
 
-## 🎮 工作领域
-- 🕹️ Unreal Engine 5 游戏玩法编程  
-- 🧩 游戏系统架构设计  
-- 🔧 UE5 插件和工具开发  
-- 🎨 快速原型制作和玩法验证  
-- ⚙️ C++ + Blueprint 混合开发
+## 工作领域
+- Unreal Engine 5 游戏玩法编程  
+- 游戏系统架构设计  
+- UE5 插件和工具开发  
+- 快速原型制作和玩法验证  
+- C++ + Blueprint 混合开发
 
 ---
 
@@ -47,13 +47,13 @@
 
 ---
 
-## 🛠️ 技能 & 工具
+## 技能 & 工具
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white)
 ![Blueprint](https://img.shields.io/badge/Blueprint-3399FF?style=flat-square&logo=blueprint&logoColor=white)
 ![Perforce](https://img.shields.io/badge/Perforce-005C99?style=flat-square&logo=perforce&logoColor=white)
 
-## 🗣 语言
+## 语言
 ![英语](https://img.shields.io/badge/英语-精通-blue?style=flat-square)
 ![中文](https://img.shields.io/badge/中文-精通-red?style=flat-square)
 ![马来语](https://img.shields.io/badge/马来语-中级-yellow?style=flat-square)
@@ -62,5 +62,5 @@
 
 ---
 
-## 📫 联系方式
+## 联系方式
 欢迎在 GitHub 上关注或联系我！
