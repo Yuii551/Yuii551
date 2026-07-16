@@ -21,7 +21,6 @@ I’ve also developed several internal UE5 plugins and reusable systems for prod
 ## UE5 Experience
 
 ### **Gameplay Systems I’ve Built**  
-*(Company/internal work — described at a high level)*
 
 - **Inventory System**  
   Modular, data-driven item structures supporting extensions and designer-friendly setup.
