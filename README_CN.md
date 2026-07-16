@@ -1,65 +1,79 @@
-# 宇涵 — 游戏程序员 | 计算机科学专业学生
+# 宇涵 | Unreal Engine 游戏玩法程序员
 
-🇬🇧 English version → [README.md](README.md)  
-🇯🇵 日本語版はこちら → [README_JP.md](README_JP.md)
+[English](README.md) | [日本語](README_JP.md) | [中文](README_CN.md)
 
-大家好，我是 **宇涵**。  
-我是一名专注于 **游戏开发** 的计算机科学专业学生，主要方向为 **游戏编程** 和 **系统设计**。  
-我主要使用 **Unreal Engine 5** 开发游戏玩法系统、工具和原型，采用 **C++** 与 **Blueprint** 混合的开发流程。  
-同时，我也开发过一些公司内部的 UE5 插件和可复用系统。
+我是一名专注于游戏开发和 Unreal Engine 游戏玩法编程的计算机科学专业学生。
+我主要使用 C++ 和 Blueprint 开发清晰、可维护的游戏玩法系统、工具以及玩家体验功能。
 
----
+## 代表项目
 
-## 工作领域
-- Unreal Engine 5 游戏玩法编程  
-- 游戏系统架构设计  
-- UE5 插件和工具开发  
-- 快速原型制作和玩法验证  
-- C++ + Blueprint 混合开发
+### Brew & Bake
 
----
+**个人项目 | Unreal Engine 5.6 | Blueprint**
 
-## 🛠️ UE5 经验
+一款第一人称咖啡馆模拟游戏，围绕准备、营业和成长所组成的完整游戏循环展开。
 
-### **开发的游戏系统**  
+- 创建了用于工作台式玩法的交互框架。
+- 实现了配方验证、搅拌、烘焙、品质评级和储存系统。
+- 制作了涵盖研磨、压粉、萃取和完成订单的手动意式咖啡流程。
+- 开发了经济、升级、存档以及游戏内教学系统。
+- 根据试玩反馈持续迭代，并完成了稳定的打包版本。
 
-- **背包/库存系统（Inventory System）**  
-  数据驱动的物品结构，支持扩展，方便设计师使用。
+[下载可游玩版本](https://drive.google.com/file/d/1VRgmWxB2D9oc7y2IkwjTOTAQdxs4egLE/view?usp=drive_link)
 
-- **可拾取系统（Pickable System）**  
-  可拾取世界中的物体，加入背包，并提供统一的使用/消耗流程。
+### AnkleBreaker
 
-- **可交互框架（Interactable Framework）**  
-  组件化系统，用于处理拾取、门、触发器、可查看对象等交互逻辑。
+**个人大学项目 | Unreal Engine 5.6 | C++ 与 Blueprint**
 
-- **门系统（Door System）**  
-  可重用的开关逻辑，包括状态管理、动画和交互规则。
+一款俯视角物理竞技场游戏。玩家通过移动控制一颗由模拟锁链连接的重球，并以此进行战斗。
 
-- **角色移动扩展（Player Movement Extensions）**  
-  增加冲刺、蹲下、自定义动作等功能，实现更顺畅的角色控制。
+- 使用刚体和物理约束构建了多刚体 Chaos Physics 锁链。
+- 根据运行时质量和速度计算伤害，并明确完成 Unreal 单位到国际单位制的转换。
+- 实现了基于有效质量的敌人击退效果以及可配置的敌人类型。
+- 使用碰撞点速度制作了由物理马达驱动的旋转机关。
+- 通过事件驱动的游戏状态逻辑连接敌人死亡、生成、UI 以及胜负流程。
 
-### **插件与工具开发**
-- 开发可复用的 **UE5 插件**，封装游戏玩法系统  
-- C++ 用于核心框架和 Gameplay Tags 架构  
-- Blueprint 用于快速迭代和设计师工具  
-- 注重模块化、可扩展性以及团队易用接口设计  
+## 专业经历
 
----
+### 游戏玩法程序实习生 | Nimbus Games
 
-## 技能 & 工具
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white)
-![Blueprint](https://img.shields.io/badge/Blueprint-3399FF?style=flat-square&logo=blueprint&logoColor=white)
-![Perforce](https://img.shields.io/badge/Perforce-005C99?style=flat-square&logo=perforce&logoColor=white)
+- 参与开发可复用的 Unreal Engine 游戏玩法系统和内部开发工具。
+- 在实际制作环境中使用 C++ 和 Blueprint。
+- 参与测试、反馈以及实现迭代流程。
+
+为遵守公司保密要求，此处不公开内部项目及其具体实现细节。
+
+## 技能
+
+**游戏开发**
+
+- Unreal Engine 5
+- Unreal C++
+- Blueprint
+- 游戏玩法编程
+- 游戏玩法系统与工具
+- 游戏 UI 实现
+
+**编程语言**
+
+- C++
+- C#
+
+**工具**
+
+- Git
+- Perforce
+- JetBrains Rider
 
 ## 语言
-![英语](https://img.shields.io/badge/英语-精通-blue?style=flat-square)
-![中文](https://img.shields.io/badge/中文-精通-red?style=flat-square)
-![马来语](https://img.shields.io/badge/马来语-中级-yellow?style=flat-square)
-![日语](https://img.shields.io/badge/日语-N2-1E50A2?style=flat-square)
 
-
----
+- 英语 - 母语水平
+- 中文 - 母语水平
+- 马来语 - 日常交流
+- 日语 - JLPT N2
 
 ## 联系方式
-欢迎在 GitHub 上关注或联系我！
+
+- [LinkedIn](https://www.linkedin.com/in/tan-yi-han/)
+- [GitHub](https://github.com/Yuii551)
+- [电子邮件](mailto:yihan551@gmail.com)
