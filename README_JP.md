@@ -1,65 +1,79 @@
-# Yi Han — ゲームプログラマー | コンピュータサイエンス専攻
+# Yi Han | Unreal Engine ゲームプレイプログラマー
 
-🇬🇧 English version → [README.md](README.md)  
-🇨🇳 中文版はこちら → [README_CN.md](README_CN.md)
+[English](README.md) | [日本語](README_JP.md) | [中文](README_CN.md)
 
-こんにちは、**Yi Han** です。  
-現在、**ゲーム開発**を専門とするコンピュータサイエンス専攻の学生で、**ゲームプログラミング**および **システム設計**を中心に活動しています。  
-主に **Unreal Engine 5** を使用し、**C++** と **Blueprint** を組み合わせたハイブリッドなワークフローで、ゲームプレイシステムやツール、各種プロトタイプを制作しています。  
-また、社内向けの UE5 プラグインや再利用可能なシステムの開発にも携わりました。
+ゲーム開発と Unreal Engine のゲームプレイプログラミングを専門とする、コンピュータサイエンス専攻の学生です。
+C++ と Blueprint を使用し、明確で再利用可能なゲームプレイシステム、ツール、プレイヤー向け機能の開発に取り組んでいます。
 
----
+## 代表プロジェクト
 
-## 担当している分野
-- Unreal Engine 5 によるゲームプレイプログラミング  
-- ゲームプレイ用システムアーキテクチャ設計  
-- UE5 用プラグイン・ツール開発  
-- ゲームメカニクスの高速プロトタイピング  
-- C++ と Blueprint を活用したハイブリッド開発  
+### Brew & Bake
 
----
+**個人制作 | Unreal Engine 5.6 | Blueprint**
 
-## 🛠️ UE5 経験
+準備、営業、成長から構成される一連のゲームループを中心とした、一人称視点のカフェシミュレーションゲームです。
 
-### **開発したゲームプレイシステム**  
+- ステーション形式のゲームプレイに対応するインタラクションフレームワークを構築。
+- レシピ検証、ミキシング、焼成、品質評価、保管システムを実装。
+- 豆の挽き、タンピング、抽出、注文完了までを含む手動エスプレッソ工程を制作。
+- 経済、アップグレード、セーブ、ゲーム内チュートリアルシステムを開発。
+- プレイテストのフィードバックを基に改善を重ね、安定したパッケージ版を完成。
 
-- **インベントリシステム**  
-  データ駆動型のアイテム構造を採用した、拡張性の高いインベントリシステム。
+[プレイ可能なビルドをダウンロード](https://drive.google.com/file/d/1VRgmWxB2D9oc7y2IkwjTOTAQdxs4egLE/view?usp=drive_link)
 
-- **ピッカブル（Pickable）システム**  
-  ワールド上のオブジェクトを拾い、インベントリへ格納し、使用・消費できる統合フローを実装。
+### AnkleBreaker
 
-- **インタラクタブルフレームワーク**  
-  ピックアップ、ドア、トリガー、調査オブジェクトなど、共通化されたインタラクション処理を提供するコンポーネントベースの仕組み。
+**大学の個人制作 | Unreal Engine 5.6 | C++ と Blueprint**
 
-- **ドアシステム**  
-  開閉処理、アニメーション状態、条件判定を備えた再利用可能なドアロジック。
+シミュレーションされたチェーンにつながれた重いボールを、プレイヤーの移動によって操作するトップダウン型の物理アリーナゲームです。
 
-- **プレイヤー移動拡張**  
-  ダッシュ、しゃがみ、カスタムアクションなどの追加機能を備えたキャラクター移動の拡張。
+- 剛体と物理制約を使用し、複数のボディで構成された Chaos Physics チェーンを構築。
+- 実行時の質量と速度からダメージを計算し、Unreal の単位を SI 単位系へ明示的に変換。
+- 有効質量に基づく敵のノックバックと、設定可能な敵バリエーションを実装。
+- 衝突地点の速度を使用する、モーター駆動式の回転ギミックを開発。
+- イベント駆動型のゲームステート処理により、敵の死亡、スポーン、UI、勝敗フローを連携。
 
-### **プラグイン・ツール開発**
-- 複数のゲームプレイシステムをパッケージ化した **UE5 プラグイン** の開発  
-- C++ による基盤クラスや Gameplay Tags 周りの実装  
-- Blueprint によるデザイナー向けツールやロジックの構築  
-- モジュール性、拡張性、チームで使いやすい API 設計に注力  
+## 実務経験
 
----
+### ゲームプレイプログラミングインターン | Nimbus Games
 
-## スキル & ツール
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white)
-![Blueprint](https://img.shields.io/badge/Blueprint-3399FF?style=flat-square&logo=blueprint&logoColor=white)
-![Perforce](https://img.shields.io/badge/Perforce-005C99?style=flat-square&logo=perforce&logoColor=white)
+- 再利用可能な Unreal Engine のゲームプレイシステムおよび社内開発ツールの制作に参加。
+- 実際の開発環境で C++ と Blueprint を使用。
+- テスト、フィードバック、実装改善のワークフローに参加。
+
+会社の機密情報を尊重するため、社内プロジェクトおよび実装の詳細は公開していません。
+
+## スキル
+
+**ゲーム開発**
+
+- Unreal Engine 5
+- Unreal C++
+- Blueprint
+- ゲームプレイプログラミング
+- ゲームプレイシステムとツール
+- ゲーム UI 実装
+
+**プログラミング言語**
+
+- C++
+- C#
+
+**ツール**
+
+- Git
+- Perforce
+- JetBrains Rider
 
 ## 言語
-![英語](https://img.shields.io/badge/%E8%8B%B1%E8%AA%9E-%E9%AB%98%E6%89%8D-blue?style=flat-square)
-![中国語](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-%E9%AB%98%E6%89%8D-red?style=flat-square)
-![マレー語](https://img.shields.io/badge/%E3%83%9E%E3%83%AC%E3%83%BC%E8%AA%9E-%E4%B8%AD%E7%AD%89-yellow?style=flat-square)
-![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-N2-1E50A2?style=flat-square)
 
-
----
+- 英語 - ネイティブ
+- 中国語 - ネイティブ
+- マレー語 - 日常会話レベル
+- 日本語 - JLPT N2
 
 ## 連絡先
-GitHub 上でのフォローやメッセージ、お気軽にどうぞ！
+
+- [LinkedIn](https://www.linkedin.com/in/tan-yi-han/)
+- [GitHub](https://github.com/Yuii551)
+- [メール](mailto:yihan551@gmail.com)
