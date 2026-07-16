@@ -47,9 +47,12 @@ Implementation details and internal project information are intentionally omitte
 
 **Game Development**
 
-- Unreal Engine 5
-- Unreal C++
-- Blueprints
+### Engines & Frameworks
+
+- Unreal Engine 5 (Unreal C++ / Blueprints)
+
+### Specialties & Field
+
 - Gameplay programming
 - Gameplay systems and tools
 - Gameplay UI implementation
