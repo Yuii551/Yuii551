@@ -1,65 +1,79 @@
-# Yi Han — Game Programmer | Computer Science Student
+# Yi Han | Unreal Engine Gameplay Programmer
 
-🇯🇵 日本語版はこちら → [README_JP.md](README_JP.md)  
-🇨🇳 中文版はこちら → [README_CN.md](README_CN.md)
+[English](README.md) | [日本語](README_JP.md) | [中文](README_CN.md)
 
-Hi! I’m **Yi Han**, a Computer Science student specializing in **Game Development**, focusing on **game programming** and **systems design**.  
-I build gameplay systems, tools, and prototypes primarily in **Unreal Engine 5**, using a hybrid workflow of **C++** and **Blueprints**.  
-I’ve also developed several internal UE5 plugins and reusable systems for production use.
+Computer Science student specializing in game development and Unreal Engine gameplay programming.
+I focus on building clear gameplay systems, tools, and player-facing features using C++ and Blueprints.
 
----
+## Featured Projects
 
-## What I Do
-- Gameplay programming (UE5)  
-- Systems architecture for gameplay  
-- Plugin & tools development (UE5)  
-- Rapid prototyping for mechanics  
-- C++ + Blueprint hybrid workflows  
+### Brew & Bake
 
----
+**Solo project | Unreal Engine 5.6 | Blueprint**
 
-## UE5 Experience
+A first-person cafe simulation built around a complete preparation, service, and progression loop.
 
-### **Gameplay Systems I’ve Built**  
+- Created an interaction framework for station-based gameplay.
+- Implemented recipe validation, mixing, baking, grading, and storage.
+- Built a manual espresso workflow covering grinding, tamping, brewing, and order completion.
+- Developed economy, upgrade, persistence, and in-game tutorial systems.
+- Iterated on a stable packaged build using playtest feedback.
 
-- **Inventory System**  
-  Modular, data-driven item structures supporting extensions and designer-friendly setup.
+[Download the playable build](https://drive.google.com/file/d/1VRgmWxB2D9oc7y2IkwjTOTAQdxs4egLE/view?usp=drive_link)
 
-- **Pickable System**  
-  Framework for picking up world objects, adding them to the inventory, and using or consuming them through a unified interaction flow.
+### AnkleBreaker
 
-- **Interactable Framework**  
-  Component-based system to handle interactions such as pickups, doors, triggers, and inspectable objects.
+**Solo university project | Unreal Engine 5.6 | C++ and Blueprint**
 
-- **Door System**  
-  Reusable logic for opening/closing, state management, and interaction rules.
+A top-down physics arena game where player movement controls a heavy ball attached through a simulated chain.
 
-- **Player Movement Extensions**  
-  Additional behaviors such as sprinting, crouching, and custom actions for smoother character control.
+- Constructed a multi-body Chaos Physics chain using rigid bodies and physics constraints.
+- Calculated damage from runtime mass and velocity with explicit Unreal-to-SI unit conversion.
+- Implemented effective-mass-based enemy knockback and configurable enemy variants.
+- Built a motor-driven rotating hazard using impact-point velocity.
+- Connected enemy deaths, spawning, UI, and win/loss flow through event-driven game-state logic.
 
-### **Plugin & Tools Development**
-- Developed reusable **UE5 plugins** packaging gameplay systems  
-- C++ used for core frameworks and gameplay tag architecture  
-- Blueprint used for designer tools and fast iteration  
-- Focus on modularity, scalability, and clean interfaces for teammates  
+## Professional Experience
 
----
+### Gameplay Programming Intern | Nimbus Games
 
-## Skills & Tools
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/UE5-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white)
-![Blueprint](https://img.shields.io/badge/Blueprint-3399FF?style=flat-square&logo=blueprint&logoColor=white)
-![Perforce](https://img.shields.io/badge/Perforce-005C99?style=flat-square&logo=perforce&logoColor=white)
+- Contributed to reusable Unreal Engine gameplay systems and internal development tools.
+- Worked with C++ and Blueprints in a production development environment.
+- Participated in testing, feedback, and implementation refinement workflows.
 
----
+Implementation details and internal project information are intentionally omitted to respect company confidentiality.
+
+## Skills
+
+**Game Development**
+
+- Unreal Engine 5
+- Unreal C++
+- Blueprints
+- Gameplay programming
+- Gameplay systems and tools
+- Gameplay UI implementation
+
+**Programming**
+
+- C++
+- C#
+
+**Tools**
+
+- Git
+- Perforce
+- JetBrains Rider
 
 ## Languages
-![English](https://img.shields.io/badge/English-Native-blue?style=flat-square)
-![Chinese](https://img.shields.io/badge/Chinese-Native-red?style=flat-square)
-![Malay](https://img.shields.io/badge/Malay-Conversational-yellow?style=flat-square)
-![Japanese](https://img.shields.io/badge/Japanese-N2-1E50A2?style=flat-square)
 
----
+- English - Native
+- Chinese - Native
+- Malay - Conversational
+- Japanese - JLPT N2
 
 ## Contact
-Feel free to reach out or follow my work here on GitHub!
+
+- [LinkedIn](https://www.linkedin.com/in/tan-yi-han/)
+- [GitHub](https://github.com/Yuii551)
+- [Email](mailto:yihan551@gmail.com)
