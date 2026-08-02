@@ -7,6 +7,19 @@
 
 ## 代表项目
 
+### Replicated Interaction Framework
+
+**个人项目 | Unreal Engine 5.8 | C++ 与 Blueprint | 多人游戏**
+
+一个可复用的交互插件，将响应迅速的客户端目标检测与服务器权威验证和执行分离。
+
+- 以模块化 C++ 组件实现限时交互、Gameplay Tag 条件、独占使用权及物体携带同步。
+- 通过 Blueprint API 提供扩展接口，同时由服务器统一处理联网逻辑与交互验证。
+- 在模拟网络延迟的双客户端 PIE 环境中验证 RPC、RepNotify 与网络权限行为。
+- 使用 Unreal Automation 测试确保 Gameplay Tag 验证规则的结果稳定一致。
+
+[查看项目详情](https://yuii551.github.io/)
+
 ### Brew & Bake
 
 **个人项目 | Unreal Engine 5.6 | Blueprint**
@@ -55,7 +68,8 @@
 
 - 玩法编程
 - 玩法系统与工具开发
-- 游戏 UI 实现
+- 多人游戏玩法系统
+- 游戏物理
 
 **编程语言**
 
@@ -77,6 +91,7 @@
 
 ## 联系方式
 
+- [作品集](https://yuii551.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/tan-yi-han/)
 - [GitHub](https://github.com/Yuii551)
 - [电子邮件](mailto:yihan551@gmail.com)
