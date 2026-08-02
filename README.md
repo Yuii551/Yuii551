@@ -7,6 +7,19 @@ I focus on building clear gameplay systems, tools, and player-facing features us
 
 ## Featured Projects
 
+### Replicated Interaction Framework
+
+**Personal project | Unreal Engine 5.8 | C++ and Blueprints | Multiplayer**
+
+A reusable interaction plugin that separates responsive client-side targeting from server-authoritative validation and execution.
+
+- Built modular C++ components for timed interactions, Gameplay Tag requirements, exclusive-use claims, and replicated object carrying.
+- Exposed the framework through Blueprint APIs while keeping networking and validation logic authoritative on the server.
+- Validated RPC, RepNotify, and authority behaviour in two-client PIE under simulated latency.
+- Added Unreal Automation tests for deterministic Gameplay Tag validation rules.
+
+[View the project case study](https://yuii551.github.io/)
+
 ### Brew & Bake
 
 **Solo project | Unreal Engine 5.6 | Blueprint**
@@ -55,7 +68,8 @@ Implementation details and internal project information are intentionally omitte
 
 - Gameplay programming
 - Gameplay systems and tools
-- Gameplay UI implementation
+- Multiplayer gameplay systems
+- Game physics
 
 **Programming**
 
@@ -77,6 +91,7 @@ Implementation details and internal project information are intentionally omitte
 
 ## Contact
 
+- [Portfolio](https://yuii551.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/tan-yi-han/)
 - [GitHub](https://github.com/Yuii551)
 - [Email](mailto:yihan551@gmail.com)
