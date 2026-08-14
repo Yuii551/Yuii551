@@ -2,7 +2,7 @@
 
 [English](README.md) | [日本語](README_JP.md) | [中文](README_CN.md)
 
-我是一名主修游戏开发方向的计算机科学学生，专注于 Unreal Engine 玩法编程。
+我毕业于计算机科学专业，专修游戏开发，并专注于 Unreal Engine 玩法编程。
 主要使用 C++ 与 Blueprint，开发稳定、可复用的玩法系统、工具及面向玩家的功能。
 
 ## 代表项目
