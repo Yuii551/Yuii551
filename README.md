@@ -2,7 +2,7 @@
 
 [English](README.md) | [日本語](README_JP.md) | [中文](README_CN.md)
 
-Computer Science student specializing in game development and Unreal Engine gameplay programming.
+Computer Science graduate specializing in game development and Unreal Engine gameplay programming.
 I focus on building clear gameplay systems, tools, and player-facing features using C++ and Blueprints.
 
 ## Featured Projects
