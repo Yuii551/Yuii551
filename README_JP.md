@@ -9,7 +9,7 @@ C++ と Blueprint を使用し、堅牢で再利用性の高いゲームプレ�
 
 ### Replicated Interaction Framework
 
-**個人制作 | Unreal Engine 5.8 | C++・Blueprint | マルチプレイヤー**
+**Fab で公開中 | Unreal Engine 5.8 | C++・Blueprint | マルチプレイヤー**
 
 クライアント側の応答性の高いターゲット検出と、サーバー権限による検証・実行を分離した、再利用可能なインタラクションプラグインです。
 
@@ -18,7 +18,7 @@ C++ と Blueprint を使用し、堅牢で再利用性の高いゲームプレ�
 - 遅延をシミュレートした 2 クライアント PIE 環境で、RPC、RepNotify、ネットワーク権限の動作を検証。
 - Gameplay Tag の判定結果を保証するため、Unreal Automation テストを追加。
 
-[プロジェクト詳細を見る](https://yuii551.github.io/)
+[Fab で見る](https://www.fab.com/listings/cb89d11b-46f9-45d0-b0f4-3cc8938a9007) | [プロジェクト詳細を見る](https://yuii551.github.io/)
 
 ### Brew & Bake
 
