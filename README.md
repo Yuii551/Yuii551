@@ -9,7 +9,7 @@ I focus on building clear gameplay systems, tools, and player-facing features us
 
 ### Replicated Interaction Framework
 
-**Personal project | Unreal Engine 5.8 | C++ and Blueprints | Multiplayer**
+**Published on Fab | Unreal Engine 5.8 | C++ and Blueprints | Multiplayer**
 
 A reusable interaction plugin that separates responsive client-side targeting from server-authoritative validation and execution.
 
@@ -18,7 +18,7 @@ A reusable interaction plugin that separates responsive client-side targeting fr
 - Validated RPC, RepNotify, and authority behaviour in two-client PIE under simulated latency.
 - Added Unreal Automation tests for deterministic Gameplay Tag validation rules.
 
-[View the project case study](https://yuii551.github.io/)
+[View on Fab](https://www.fab.com/listings/cb89d11b-46f9-45d0-b0f4-3cc8938a9007) | [View the project case study](https://yuii551.github.io/)
 
 ### Brew & Bake
 
