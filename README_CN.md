@@ -9,7 +9,7 @@
 
 ### Replicated Interaction Framework
 
-**个人项目 | Unreal Engine 5.8 | C++ 与 Blueprint | 多人游戏**
+**已发布于 Fab | Unreal Engine 5.8 | C++ 与 Blueprint | 多人游戏**
 
 一个可复用的交互插件，将响应迅速的客户端目标检测与服务器权威验证和执行分离。
 
@@ -18,7 +18,7 @@
 - 在模拟网络延迟的双客户端 PIE 环境中验证 RPC、RepNotify 与网络权限行为。
 - 使用 Unreal Automation 测试确保 Gameplay Tag 验证规则的结果稳定一致。
 
-[查看项目详情](https://yuii551.github.io/)
+[在 Fab 上查看](https://www.fab.com/listings/cb89d11b-46f9-45d0-b0f4-3cc8938a9007) | [查看项目详情](https://yuii551.github.io/)
 
 ### Brew & Bake
 
